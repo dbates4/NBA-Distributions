@@ -15,6 +15,3 @@ df = df.drop(columns=['Unnamed: 0'])
 
 df_teamlevel = df.groupby(['Team','Date'])
 
-# just trying out a thing
-
-# Another thing
